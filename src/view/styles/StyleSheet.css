@@ -1,0 +1,7 @@
+.mainFromLeft{
+    -fx-background-color: #5352ed;
+    -fx-background-radius: 0 50 50 0;
+}
+.loadPage{
+    -fx-background-color: #f7f1e3;
+}

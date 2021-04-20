@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="900.0" prefWidth="1600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.MainFormController">
+   <children>
+      <AnchorPane prefHeight="900.0" prefWidth="420.0" styleClass="mainFromLeft" stylesheets="@styles/StyleSheet.css" />
+      <AnchorPane layoutX="253.0" layoutY="77.0" prefHeight="746.0" prefWidth="1237.0" styleClass="loadPage" stylesheets="@styles/StyleSheet.css" />
+   </children>
+</AnchorPane>
